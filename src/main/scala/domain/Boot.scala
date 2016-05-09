@@ -2,6 +2,7 @@ package domain
 
 /**
   * Created by caorol on 2016/05/03.
+  * https://github.com/scalikejdbc/scalikejdbc-cookbook/blob/master/ja/02_quicktour.md
   */
 object Boot extends App {
   import scalikejdbc._
